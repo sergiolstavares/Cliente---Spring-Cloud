@@ -8,14 +8,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cosmos-db-simples" />
+        <module name="cosmo-db-simples" />
+        <module name="cliente-crud" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cliente-crud" target="11" />
+      <module name="cosmo-db-simples" target="11" />
       <module name="cosmos-db-simples" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cliente-crud" options="-parameters" />
+      <module name="cosmo-db-simples" options="-parameters" />
       <module name="cosmos-db-simples" options="-parameters" />
     </option>
   </component>

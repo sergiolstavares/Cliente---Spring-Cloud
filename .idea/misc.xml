@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/cosmo-db-simples/pom.xml" />
         <option value="$PROJECT_DIR$/cosmos-db-simples/pom.xml" />
+        <option value="$PROJECT_DIR$/cliente-crud/pom.xml" />
       </list>
     </option>
   </component>

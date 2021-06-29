@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cliente-crud/cliente-crud.iml" filepath="$PROJECT_DIR$/cliente-crud/cliente-crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cosmos-db-simples/cosmo-db-simples.iml" filepath="$PROJECT_DIR$/cosmos-db-simples/cosmo-db-simples.iml" />
       <module fileurl="file://$PROJECT_DIR$/cosmo-db-simples/cosmos-db-simples.iml" filepath="$PROJECT_DIR$/cosmo-db-simples/cosmos-db-simples.iml" />
     </modules>
   </component>
